@@ -1,0 +1,11 @@
+.products-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.image-products {
+  height: 50vh;
+}
